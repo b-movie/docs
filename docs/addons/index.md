@@ -1,6 +1,8 @@
 ---
 title: "Addons"
-sidebar_position: 4
+sidebar_position: 2
 ---
 
-endpoint: https://b.movie/api
+- [Why addons?](./why)
+- [How to install addons?](./how-to-install)
+- [How do BEE addons work?](./how-do-addons-work)
