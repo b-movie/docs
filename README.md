@@ -1,41 +1,9 @@
-# Website
+# BEE Docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+BEE is a global social network dedicated to film and TV enthusiasts. Here, you can explore and keep track of your favorite films and TV shows. Engage in discussions and share your ratings with fellow fans.
 
-### Installation
+What sets BEE apart is its utilization of blockchain technology, ensuring that all your data created within the platform is securely stored on the blockchain, both open and encrypted.
 
-```
-$ yarn
-```
+In addition, BEE features a powerful and open player that enhances your viewing experience. With the available addons from community, you can conveniently stream and watch films and TV shows within the platform.
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+In addition to our website, BEE offers a dedicated desktop client for Windows, Mac, and Linux operating systems. This client includes a torrent stream player, allowing users to seamlessly stream and watch films and TV shows directly from torrent files. We understand the importance of providing versatile options for our users, and we are committed to expanding our range of applications. Stay tuned for more exciting app releases in the future!
